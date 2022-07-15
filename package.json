@@ -1,0 +1,17 @@
+{
+  "name": "trillo",
+  "version": "1.0.0",
+  "description": "Trillo",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "keywords": [],
+  "author": "https://github.com/gharsh11032000/",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.6.2",
+    "parcel": "^2.6.2"
+  }
+}
